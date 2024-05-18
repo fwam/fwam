@@ -10,6 +10,6 @@ Ex-member of NixOS. (sign https://save-nix-together.org and use Lix https://lix.
 Contributor to Arch Linux.
 
 Contact (available for hire.):
-  - Email: b64 - eGVuaWFAcXVlZXJlZW4uZGV2Cg== (If required, use my age key: age1a90k60gcujkvq09u6dfvsqp9vcjahmvph00fzsnwnkvpucc433yqnuwl0f)
+  - Email: b64 - eGVuaWFAcXVlZXJlZW4uZGV2Cg==
   - Matrix: @fwam:femdom.solutions
 ```
