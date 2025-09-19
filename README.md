@@ -1,2 +1,1 @@
-# fwam /fwɑːm/
-I've moved to codeberg: https://codeberg.org/fwam
+Hi, [I have moved to Codeberg](https://codeberg.org/codeberg), this account will be used only for contributions to other repositories.
